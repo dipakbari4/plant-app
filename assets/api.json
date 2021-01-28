@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Peace Lily",
+        "description": {
+            "about": "Native primarily to tropical rainforests of America, the peace lily plant is a vibrant and graceful perennial that adds life to any space. The standard peace lily can grow to 24-40 inches and deluxe plants can grow to 32-50 inches.",
+            "caretips": {
+                "sun light": "Partial shade",
+                "water": "Water it when it sags slightly.",
+                "temperature": "65°F-85°F",
+                "poisonous": "Children, Cats, Dogs",
+                "pests": "wiping of its leaves prevents pests."
+            }
+        }
+    },
+    {
+        "id": 2,
+        "name": "Banana",
+        "description": {
+            "about": "Banana trees are one of the common trees that come to mind when dreaming of the tropics, but did you know that it is not really a tree? It is actually the world's largest herb. On banana plantations in the tropic the plants must be pruned to the ground after fruiting. The trunk is composed of the main fruiting stem enrobed by leaves. Still, due to its size, it is commonly thought of as a tree.",
+            "caretips": {
+                "sun light": "Full sunlight",
+                "water": "Needs heavy water.",
+                "temperature": "75°F-95°F and plenty of moisture in air",
+                "poisonous": "no",
+                "pests": "no details"
+            }
+        }
+    },
+    {
+        "id": 3,
+        "name": "Banana",
+        "description": {
+            "about": "Banana trees are one of the common trees that come to mind when dreaming of the tropics, but did you know that it is not really a tree? It is actually the world's largest herb. On banana plantations in the tropic the plants must be pruned to the ground after fruiting. The trunk is composed of the main fruiting stem enrobed by leaves. Still, due to its size, it is commonly thought of as a tree.",
+            "caretips": {
+                "sun light": "Full sunlight",
+                "water": "Needs heavy water.",
+                "temperature": "75°F-95°F and plenty of moisture in air",
+                "poisonous": "no",
+                "pests": "no details"
+            }
+        }
+    },
+    {
+        "id": 4,
+        "name": "Banana",
+        "description": {
+            "about": "Banana trees are one of the common trees that come to mind when dreaming of the tropics, but did you know that it is not really a tree? It is actually the world's largest herb. On banana plantations in the tropic the plants must be pruned to the ground after fruiting. The trunk is composed of the main fruiting stem enrobed by leaves. Still, due to its size, it is commonly thought of as a tree.",
+            "caretips": {
+                "sun light": "Full sunlight",
+                "water": "Needs heavy water.",
+                "temperature": "75°F-95°F and plenty of moisture in air",
+                "poisonous": "no",
+                "pests": "no details"
+            }
+        }
+    },
+    {
+        "id": 5,
+        "name": "Banana",
+        "description": {
+            "about": "Banana trees are one of the common trees that come to mind when dreaming of the tropics, but did you know that it is not really a tree? It is actually the world's largest herb. On banana plantations in the tropic the plants must be pruned to the ground after fruiting. The trunk is composed of the main fruiting stem enrobed by leaves. Still, due to its size, it is commonly thought of as a tree.",
+            "caretips": {
+                "sun light": "Full sunlight",
+                "water": "Needs heavy water.",
+                "temperature": "75°F-95°F and plenty of moisture in air",
+                "poisonous": "no",
+                "pests": "no details"
+            }
+        }
+    },
+    {
+        "id": 6,
+        "name": "Banana",
+        "description": {
+            "about": "Banana trees are one of the common trees that come to mind when dreaming of the tropics, but did you know that it is not really a tree? It is actually the world's largest herb. On banana plantations in the tropic the plants must be pruned to the ground after fruiting. The trunk is composed of the main fruiting stem enrobed by leaves. Still, due to its size, it is commonly thought of as a tree.",
+            "caretips": {
+                "sun light": "Full sunlight",
+                "water": "Needs heavy water.",
+                "temperature": "75°F-95°F and plenty of moisture in air",
+                "poisonous": "no",
+                "pests": "no details"
+            }
+        }
+    }
+]
